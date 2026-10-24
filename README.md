@@ -1,2 +1,13 @@
 # copilot-demo-calc
-Demo repo for the Open-Source Contribution Copilot (seeded issues)
+
+A tiny Python calculator. **This repository exists only to demo the Open-Source Contribution Copilot: its issues
+are seeded, not organic.**
+
+## Quick start
+
+```
+pip install -r requirements.txt
+pytest
+```
+
+Then importt `calc` and call `add(1, 2)`.
